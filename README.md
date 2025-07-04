@@ -32,6 +32,9 @@ This is a beginner-friendly API that allows users to view available pets, apply 
 https://github.com/Kaveyah/CFG-Assignments
 
 2. Install
+flask
+mysql-connector-python
+requests
 
 3. Create SQL database
 
