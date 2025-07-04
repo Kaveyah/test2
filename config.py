@@ -1,4 +1,4 @@
 USER = "root"
-PASSWORD = "Dream0212.."
+PASSWORD = "password"
 HOST = "localhost"
 DATABASE = "pet_adoption"
